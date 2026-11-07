@@ -1,0 +1,6 @@
+[submodule "anti-gambling-trader-tw"]
+	path = anti-gambling-trader-tw
+	url = https://github.com/mars-tw/anti-gambling-trader-tw.git
+[submodule "qlib-tw-trader"]
+	path = qlib-tw-trader
+	url = https://github.com/Docat0209/qlib-tw-trader.git
